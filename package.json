@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^6.6.5"
+  },
+  "name": "o-a-a-test",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irina-quinterne/o-a-a-test.git"
+  },
+  "author": "Irina Quinterne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irina-quinterne/o-a-a-test/issues"
+  },
+  "homepage": "https://github.com/irina-quinterne/o-a-a-test#readme"
+}
