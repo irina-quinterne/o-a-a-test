@@ -4,7 +4,7 @@
  - run **npm install**
 
 ## Packages
- - *sequilize@^6.6.5*
+ - *promise-mysql@^5.0.3*
  - *express@^4.17.1*
 
 
